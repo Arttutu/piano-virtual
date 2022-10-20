@@ -1,0 +1,178 @@
+.botao{
+    width: 68px ;
+    height: 280px;
+   
+}
+ #preto{
+    width: 38px;
+    height: 160px;
+    background-color: black;
+}
+.botao:active{
+    background-color: gray;
+}
+
+.nome_tecla_preto{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    top: 100px;
+    left: 8px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+}
+.nome_tecla_preto_primeiro{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    top: 80px;
+    left: 8px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+
+.nome_do{
+    position: absolute;
+    top: 220px;
+    left: 26.5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor:default;
+    font-family: 'Fasthand', cursive;
+
+}
+.nome_re{
+    position: absolute;
+    top: 220px;
+    left: 94.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+ 
+
+}
+.nome_mi{
+    position: absolute;
+    top: 220px;
+    left: 162.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+ 
+
+}
+
+.nome_fa{
+    position: absolute;
+    top: 220px;
+    left: 230.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+.nome_sol{
+    position: absolute;
+    top: 220px;
+    left: 298.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+.nome_la{
+    position: absolute;
+    top: 220px;
+    left: 366.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+.nome_si{
+    position: absolute;
+    top: 220px;
+    left: 434.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+.nome_domenor{
+    position: absolute;
+    top: 220px;
+    left: 502.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+}
+.nome_remenor{
+    position: absolute;
+    top: 220px;
+    left: 570.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+.nome_mimenor{
+    position: absolute;
+    top: 220px;
+    left: 638.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+ 
+
+}
+
+.nome_famenor{
+    position: absolute;
+    top: 220px;
+    left: 706.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+.nome_solmenor{
+    position: absolute;
+    top: 220px;
+    left: 774.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+.nome_lamenor{
+    position: absolute;
+    top: 220px;
+    left: 842.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}
+.nome_simenor{
+    position: absolute;
+    top: 220px;
+    left: 910.5px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Fasthand', cursive;
+    cursor:default;
+
+}

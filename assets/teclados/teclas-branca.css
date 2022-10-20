@@ -1,0 +1,17 @@
+.tecla__branco{
+  
+    width: 68px ;
+    height: 280px;
+    border-radius: 0 0 5px 5px;
+    border: solid black 2px;
+    box-sizing: border-box;
+    background-color: #fff;
+    
+    
+}
+.tecla__branco:active{
+    background-color: red;
+}
+.teclas__branco{
+    display: flex;
+}
